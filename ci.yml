@@ -13,5 +13,3 @@ Profiles:
       image: DECK_STD_CENTOS7
       tools:
         - python: 3.9.16
-    build:
-    command: python setup.py
